@@ -24,7 +24,7 @@ Here are some info to know me a little better:
 </div> !-->
 
 <div>
-<a target="_blank" href="arturzuzadiniz7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="mailto:arturzuzadiniz7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/arturzuza/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="https://open.spotify.com/user/6wnk7pvyvu1qyifip5nmt2vcv?si=4e4282ef9d3e4483"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a target="_blank" href="https://linktr.ee/ArturZuza"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
