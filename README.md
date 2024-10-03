@@ -5,7 +5,7 @@ Here are some info to know me a little better:
 
 - 🎓 Bachelor of Science and Technology at UFRN
 - 🔭 I’m working on to be a full-stack developer
-- 🌱 I’m currently learning JavaScript, JSON and APIs
+- 🌱 I’m currently learning Python, JSON and APIs
 - 🤔 I’m currently coding in HTML, CSS and Python
 <div>
   <a href="https://github.com/ArturZuza">
