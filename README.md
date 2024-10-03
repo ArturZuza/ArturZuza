@@ -11,7 +11,7 @@ Here are some info to know me a little better:
   <a href="https://github.com/ArturZuza">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturZuza&include_all_commits=true&show_icons=true&locale=en&theme=vue-dark&rank_icon=github"/>
   </a>
-  <a href="https://github.com/ArturZuza">
+  <a href="https://github.com/ArturZuza/ExcelSMSNotifier">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArturZuza&repo=ExcelSMSNotifier&theme=vue-dark"/>
   </a>
 </div>
